@@ -1,0 +1,52 @@
+{
+  "Labrador Retriever": {
+    "size": "Large",
+    "temperament": ["Friendly", "Outgoing", "High-spirited", "Gentle", "Intelligent"],
+    "energy_level": "High",
+    "life_span": "10-12 years",
+    "group": "Sporting",
+    "good_with_kids": "Yes",
+    "good_with_pets": "Yes",
+    "trainability": "Easy"
+  },
+  "German Shepherd": {
+    "size": "Large",
+    "temperament": ["Confident", "Courageous", "Smart", "Loyal", "Obedient"],
+    "energy_level": "High",
+    "life_span": "9-13 years",
+    "group": "Herding",
+    "good_with_kids": "With supervision",
+    "good_with_pets": "With training",
+    "trainability": "Easy"
+  },
+  "Golden Retriever": {
+    "size": "Large",
+    "temperament": ["Friendly", "Intelligent", "Devoted", "Obedient", "Confident"],
+    "energy_level": "High",
+    "life_span": "10-12 years",
+    "group": "Sporting",
+    "good_with_kids": "Yes",
+    "good_with_pets": "Yes",
+    "trainability": "Easy"
+  },
+  "Bulldog": {
+    "size": "Medium",
+    "temperament": ["Friendly", "Docile", "Willful", "Gregarious"],
+    "energy_level": "Low",
+    "life_span": "8-10 years",
+    "group": "Non-Sporting",
+    "good_with_kids": "Yes",
+    "good_with_pets": "Yes",
+    "trainability": "Moderate"
+  },
+  "Poodle": {
+    "size": "Medium",
+    "temperament": ["Active", "Intelligent", "Faithful", "Trainable", "Instinctual"],
+    "energy_level": "High",
+    "life_span": "12-15 years",
+    "group": "Non-Sporting",
+    "good_with_kids": "Yes",
+    "good_with_pets": "Yes",
+    "trainability": "Easy"
+  }
+}
